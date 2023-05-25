@@ -1,0 +1,29 @@
+permalink: /:title
+markdown: redcarpet
+
+highlighter: pygments
+paginate: 20 # pagination based on number of posts
+paginate_path: "page/:num"
+
+categories_path : categories.html
+tags_path : tags.html
+
+BASE_PATH : http://3jinshihai.github.io
+
+description : 厚德博学 存远笃行
+title : 3金识海
+logo : /assets/images/avatar.jpg
+#cover : /assets/images/background-cover.jpg
+
+
+author:
+  name: 3金识海
+  maxim: Stay hungry,Stay foolish
+  role: Jekyll Theme
+  email: goileolee@foxmail.com
+  github: 3金识海
+  twitter: 3金识海
+  facebook: 3金识海
+  googleplus: 3金识海
+  bio: "Hi, 这里是3金识海"
+  uno-dbyll: /assets/images/avatar.jpg
